@@ -27,14 +27,4 @@ This repository contains all the Python programming tasks completed during my in
 
 ---
 
-## 📂 Repository Structure
 
-```bash
-
-CodSoft/
-│
-├── task1.py
-├── task2.py
-├── Task_3/
-│   └── task3.py
-├── README.md
