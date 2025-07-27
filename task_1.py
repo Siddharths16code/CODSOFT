@@ -1,4 +1,4 @@
-# To-Do List Application using Python 
+#  TASK 1 : To-Do List Application using Python (CLI) 
 
 tasks = []
 
