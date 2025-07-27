@@ -14,9 +14,9 @@ This repository contains all the Python programming tasks completed during my in
 
 | Task No. | Task Name              | Description                          |
 |----------|------------------------|--------------------------------------|
-| Task 1   | To-Do List Application | Simple to-do list app      |
-| Task 2   | |   |
-| Task 3   |                     |        |
+| Task 1   | To-Do List Application | Simple to-do list app  (CLI + GUI )     |
+| Task 2   |Calculator | simple calculator gui   |
+| Task 3   | password generator                    | strong and secure password generator ( CLI + GUI )       |
 
 ---
 
